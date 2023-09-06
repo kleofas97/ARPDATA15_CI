@@ -12,3 +12,5 @@ class Calculator:
 
     def dodawanie(self):
         return self._a + self._b
+    def odejmowanie(self):
+        return self._a - self._b
